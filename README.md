@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rani15c
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python, SQL, ML, AI
-- 💞️ I’m looking to collaborate on ML projects
+- 🌱 I’m currently learning Python
 - 📫 How to reach me : 
 
 <!---
